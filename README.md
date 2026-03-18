@@ -221,3 +221,9 @@ This project was completed as a group term paper for INSY-5339-002
 at the University of Texas Arlington. The dataset is publicly
 available on Kaggle. No original code files are included in this
 repository as the analysis was conducted using the Weka GUI tool.
+
+© 2025 Chaitali Bonke. All rights reserved.
+
+This repository and its contents are the intellectual property of Chaitali Bonke. No part of this project, including code, data, analysis, or documentation, may be reproduced, distributed, transmitted, or used in any form without prior written permission from the author.
+
+For permissions or inquiries, contact: chaitali.bonke@gmail.com
